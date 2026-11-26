@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 460" role="img">
+  <rect width="760" height="460" rx="18" fill="#e8f1ed"/>
+  <path d="M0 120h760M0 250h760M0 380h760M140 0v460M310 0v460M500 0v460M660 0v460" stroke="#fff" stroke-width="22"/>
+  <path d="M0 310 170 170l160 70 160-140 270 110" fill="none" stroke="#9fc8cf" stroke-width="18"/>
+  <path d="M383 125c-52 0-94 42-94 94 0 68 94 164 94 164s94-96 94-164c0-52-42-94-94-94Z" fill="#087e8b"/>
+  <circle cx="383" cy="219" r="32" fill="#fff"/>
+  <text x="383" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#17324d">MADRID · MAPA ESQUEMÁTICO</text>
+</svg>
