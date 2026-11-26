@@ -1,3 +1,3 @@
 <footer>
-    <p>&copy; {{ date('Y') }} Horizonte Viajes. Todos los derechos reservados.</p>
+    <p>&copy; {{ date('Y') }} Albert Viajes. Todos los derechos reservados.</p>
 </footer>
